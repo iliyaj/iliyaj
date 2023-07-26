@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Iliya
-- 👀 I’m interested in data engineering, front-end web development and developing on the Cardano blockchain.
-- 🌱 I’m currently learning Python, PySpark, SQL and mastering DAX
-- 💞️ I’m looking to collaborate on creating accessible data.
-- 📫 You can reach me at hello@iliya.au
+- 👋 Hi, I'm Iliya!
+- 👀 I'm passionate about data engineering, front-end web development, and developing on the Cardano blockchain.
+- 🌱 Currently, I'm diving into Python, PySpark, SQL, and mastering DAX.
+- 💞️ I'm eager to collaborate on projects that focus on creating accessible data.
+- 📫 Feel free to reach out to me at hello@iliya.au.
 
 <!---
 iliyaj/iliyaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
