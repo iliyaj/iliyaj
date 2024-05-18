@@ -1,5 +1,5 @@
 - 👋 Hi, I'm Iliya!
-- 👀 I'm passionate about data engineering and Generative AI
+- 👀 I have a passion in data engineering and photography
 - 🌱 Currently, I'm diving into Python, PySpark, SQL, and mastering DAX.
 
 <!---
