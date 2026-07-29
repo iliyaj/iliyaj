@@ -1,6 +1,7 @@
-- 👋 Hi, I'm Iliya!
-- 👀 I have a passion in data engineering and photography
-- 🌱 Currently, I'm diving into Python, PySpark, SQL, and mastering DAX.
+# Hi, I'm Iliya 👋
+
+I'm currently building [Akira Board](https://akiraboard.com) — an AI-native, local-first
+Kanban board where people and AI coding agents work from the same ideas and tickets.
 
 <!---
 iliyaj/iliyaj is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
